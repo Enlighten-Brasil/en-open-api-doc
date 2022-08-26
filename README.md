@@ -5,7 +5,7 @@
 ```bash
 npm install @redocly/cli -g
 
-npm install -g redoc-cli #optional
+npm install -g redoc-cli
 ```
 
 ## Run preview
