@@ -21,7 +21,7 @@ info:
 
     # Introduction
 
-    This API definition is intended to to be a good starting point for
+    This API definit ion is intended to to be a good starting point for
     describing your API in [OpenAPI/Swaggerformat](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md).
     It also demonstrates features of the
     [create-openapi-repo](https://github.com/Redocly/create-openapi-repo) tool and
